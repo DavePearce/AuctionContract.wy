@@ -1,0 +1,10 @@
+[package]
+name="token"
+authors=["David J. Pearce"]
+version="0.1.0"
+
+[build]
+platforms=["whiley","boogie"]
+
+[dependencies]
+evm="0.1.0"
